@@ -1,0 +1,49 @@
+h1 {
+    color: yellow;
+    background-color: rgb(216, 151, 21);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+}
+
+h3 {
+    color: pink;
+    background-color: saddlebrown;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+h4 {
+    color: rgb(21, 166, 166);
+    font-language-override: normal;
+
+}
+
+p {
+    font-size: 15px;
+    background-color: bisque;
+}
+
+a:hover {
+    background-color: red;
+
+}
+
+.margin {
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.toppen {
+    padding-top: 100px;
+
+}
+
+img {
+    /* margin: 20px 70px 60px 100px ; */
+    margin: 20px auto 200px;
+    display: block;
+}
+
+/* alt shift 8 för { och alt shift 8 för kommentar */
